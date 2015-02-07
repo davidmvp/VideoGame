@@ -1,0 +1,67 @@
+Andrew Ding - ading2@jhu.edu
+Da Lu - dlu6@jhu.edu
+Roland Luo - 
+Daniel Woods - dwoods7@jhu.edu
+Kevin Zhang - kzhang12@jhu.edu
+********************
+Instructions for the game:
+
+Title screen will automatically advance to menu screen, but you can press
+space bar to manually advance to menu screen.
+
+Use mouse to select a menu option. Press New Game to enter name and play the game.
+
+Game has cutscenes and dialogue that explain what the player needs to do. To advance
+dialogue box, press any key. To skip a cutscene, press any key before
+the people start talking.
+
+Keyboard Controls:
+Arrow keys: movement
+Space Bar: Action button (used to cut down trees)
+e: use sword (level 2+)
+r: use fireballs (level 3+)
+    has burning effect
+t: use flamestrike (level 4+)
+    hold down t to determine range. release t to fire.
+    Combo with fireball for extra damage
+
+Xbox Controls:
+left joystick: move
+a: action
+x: sword
+b: primary spell: fireball
+y: secondary spell: flamestrike
+
+
+Player has a health bar that goes down every time player comes in contact
+with an enemy. When player reaches 0 health, they lose and game is over.
+
+There is a timer that indicates how much time a player has to finish the level.
+If the timer reaches 0, the player loses. The timer is also the score for
+the player.
+
+To change from game to high score screen, press space.
+
+To change from high score screen to menu, press space.
+********************
+All the code is in the folder labeled Source
+All sound files are in folder called Sounds
+All image files are in folder named Images
+All data such as cutscene dialogue and high scores are in folder named Data
+********************
+CHEAT BUTTONS
+When you're on level 1:
+    2: Go to level 2
+    3: Go to level 3
+    4: o to level 4
+w/left trigger: Run faster
+********************
+We have two submissions: one with xbox controller and one without it.
+We have the xbox controller working when we are not using a virtual machine,
+but it does not work when we use it on a virtual machine and we couldn't
+figure out why. 
+
+
+
+
+

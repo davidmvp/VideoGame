@@ -1,0 +1,14 @@
+Andrew:
+    Fix enemy AI so they only shoot towards player
+    Fix level 3 for balance purposes and so it doesn't look shitty
+    Transition to level 4
+    Volume/Brightness
+
+Dan:
+    Add third ability for hero
+    Level 4
+
+Kevin:
+    Update text block
+    Add score to HUD and remove score from screen
+    Game controller
